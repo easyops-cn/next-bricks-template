@@ -1427,10 +1427,10 @@
   resolved "https://registry.npmmirror.com/@next-bricks/v2-adapter/-/v2-adapter-1.3.1.tgz#a5174ed6bf289285693d131cd764f04de47cdca9"
   integrity sha512-kHGM86Nj/XZmH5Wu0PqmXaoHtqg99ZkABJEvQsW7NYj3uftFacZlaiNnyNGgc0DdSsLn6xIoI2Z0Z0ZXYbPJog==
 
-"@next-core/babel-preset-next@^1.0.22":
-  version "1.0.22"
-  resolved "https://registry.npmmirror.com/@next-core/babel-preset-next/-/babel-preset-next-1.0.22.tgz#45b511200316b89ebb8eff516484e372482f1eef"
-  integrity sha512-6YJrTlEOkVeuBBjd5n9LNnlZ0csAUEW3ISiiSroS1FTRBfPgfXqt33hslTatVMcnLfopjzTxfo2nF4m7YVrzAA==
+"@next-core/babel-preset-next@^1.0.23":
+  version "1.0.23"
+  resolved "https://registry.npmmirror.com/@next-core/babel-preset-next/-/babel-preset-next-1.0.23.tgz#ea13356d9d4a78aff4da67ec83e416e3d8a36c0a"
+  integrity sha512-92UpnpuoGNLPV8Kn6k2+sO7n4B5A7B+TLm/Ehhyq7rG4mev0YR7FCWQUgQ2/sBYN3ArdNVHAvG3uLSnhq2HLGQ==
   dependencies:
     "@babel/plugin-proposal-decorators" "^7.24.7"
     "@babel/plugin-transform-runtime" "^7.25.4"
@@ -1439,10 +1439,10 @@
     "@babel/preset-typescript" "^7.24.7"
     "@babel/runtime" "^7.25.6"
 
-"@next-core/brick-container@^3.19.28":
-  version "3.19.28"
-  resolved "https://registry.npmmirror.com/@next-core/brick-container/-/brick-container-3.19.28.tgz#a8b0921c55ae6643e83c02532f383d2ee4e8ee52"
-  integrity sha512-qJin3fPmsDK1TEnmkXBtnmC6/JiF9CGQuvY+wZdGFzMVEqe2ZGjHe9rx3vm/hKJsN/99ndZeeLsh30pzn4X6iQ==
+"@next-core/brick-container@^3.20.0":
+  version "3.20.0"
+  resolved "https://registry.npmmirror.com/@next-core/brick-container/-/brick-container-3.20.0.tgz#cc4169b0e807a3ce6862daeeb15d6ed3054bf56d"
+  integrity sha512-2kr1N+Hq5rHuWPgghssN2O0BZSpd3leVsa9Tw1obDDnGRsJtrAzjaOX5CxDDGd/klMlpz1rrBnXvEOWen0n7Ng==
   dependencies:
     "@next-core/serve-helpers" "^1.2.4"
     body-parser "^1.20.3"
@@ -1463,10 +1463,10 @@
   resolved "https://registry.npmmirror.com/@next-core/brick-manifest/-/brick-manifest-0.7.1.tgz#3c11e7108b2bd147a4e9876fe95e2eb0d723e2dd"
   integrity sha512-g+4m/Ran4ZBIUpIMhqx/fH91F2lYmci18tlI9TCRte2AFnmA/jsTFULdbPQtd/OMIhodrGnjkhN0WshbqeTzew==
 
-"@next-core/brick-playground@^1.15.47":
-  version "1.15.47"
-  resolved "https://registry.npmmirror.com/@next-core/brick-playground/-/brick-playground-1.15.47.tgz#680b28554a2ab067368bbcd3bd68ce7aa865b055"
-  integrity sha512-i2EcqMAlJkfeJFIjaitWbQpzg8qUOrW4JQszRNVQJbnozMLxu14NapEJ6x5Z/nxim1ltAiX56LKXG4vL+dcc5g==
+"@next-core/brick-playground@^1.15.48":
+  version "1.15.48"
+  resolved "https://registry.npmmirror.com/@next-core/brick-playground/-/brick-playground-1.15.48.tgz#e6deeb8454d690d330428195ff70117e6b2cea04"
+  integrity sha512-BqMcJ5RLzRF+AxSmWtK2oi5crqxwNVdVrEzve09MES3PmjxF65yNEdxBpqQ1ghmHHjGgv2YD4pzbX7rJhBmrIg==
   dependencies:
     "@next-core/doc-helpers" "^0.2.15"
     "@next-core/serve-helpers" "^1.2.4"
@@ -1519,10 +1519,10 @@
     ts-jest-resolver "^2.0.1"
     typescript "^5.6.2"
 
-"@next-core/yo@^1.5.88":
-  version "1.5.88"
-  resolved "https://registry.npmmirror.com/@next-core/yo/-/yo-1.5.88.tgz#212008c365bc9e7231bcef8249cd7b2d54cd225d"
-  integrity sha512-hb7G5nWNSODbvl9PIkyC1UR+0UN3r63jASXmA6RIun7m1ZvVNQ20izHsy9xTq8s/mrgaPyYHsM+0puwEPH18vQ==
+"@next-core/yo@^1.5.89":
+  version "1.5.89"
+  resolved "https://registry.npmmirror.com/@next-core/yo/-/yo-1.5.89.tgz#10f215cec348f681ec8721ab9ec93dd43ebd1d7b"
+  integrity sha512-/z7qtBFP2SUo3mqRWKa5ZBm/o9KU3VGVeLVGd1maZeEV3vLO+P0uXfwk0Qo6eCXaML1HWMT9qlOwWtRNJNaaoA==
   dependencies:
     minimist "^1.2.8"
     plop "^4.0.1"
