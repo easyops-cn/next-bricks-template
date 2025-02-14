@@ -1776,12 +1776,12 @@
     "@babel/preset-typescript" "^7.26.0"
     "@babel/runtime" "^7.26.0"
 
-"@next-core/brick-container@^3.20.2":
-  version "3.20.2"
-  resolved "https://registry.npmmirror.com/@next-core/brick-container/-/brick-container-3.20.2.tgz#ef137833c2e948a9617cd29ff1dd6f38de94c854"
-  integrity sha512-AoUov3gUBUka0ewOW9eLPwlADGDNJpjDq/kj2KFNdDJvnISC7gNoqeDT6VydACySJC0B2lN2ocPJGg6pHptO0g==
+"@next-core/brick-container@^3.20.5":
+  version "3.20.5"
+  resolved "https://registry.npmmirror.com/@next-core/brick-container/-/brick-container-3.20.5.tgz#3128461e65e1538bbc8d2f838d9b5ceb62fd0d3d"
+  integrity sha512-/i73PTPazMH4kky1WdbdPvI8lpSB71lqX6YYBM8Sz0OoIsGRc3R1GUMqv0ODjRZDnYk18nbWsOe9kRnhM+1Czw==
   dependencies:
-    "@next-core/serve-helpers" "^1.2.4"
+    "@next-core/serve-helpers" "^1.2.5"
     body-parser "^1.20.3"
     chalk "^4.1.2"
     chokidar "^4.0.1"
@@ -1800,13 +1800,13 @@
   resolved "https://registry.npmmirror.com/@next-core/brick-manifest/-/brick-manifest-0.7.1.tgz#3c11e7108b2bd147a4e9876fe95e2eb0d723e2dd"
   integrity sha512-g+4m/Ran4ZBIUpIMhqx/fH91F2lYmci18tlI9TCRte2AFnmA/jsTFULdbPQtd/OMIhodrGnjkhN0WshbqeTzew==
 
-"@next-core/brick-playground@^1.15.50":
-  version "1.15.50"
-  resolved "https://registry.npmmirror.com/@next-core/brick-playground/-/brick-playground-1.15.50.tgz#3afc1c9a79e7b66b9c876bc98aca2b171d9f3742"
-  integrity sha512-HF+4OjBSjLqO32XWbOG5kDQphQgn3RAbQbgdRDPtFVvIdOVe/r3Kgp9YhsgCL5FSGW7ZISFhojZRPoqjoSWupw==
+"@next-core/brick-playground@^1.15.52":
+  version "1.15.52"
+  resolved "https://registry.npmmirror.com/@next-core/brick-playground/-/brick-playground-1.15.52.tgz#d1b71272be6a941fdb51e8e8d3a5cb2573c0e424"
+  integrity sha512-Mzr+H83Af2271Es/G/Gyb0/arVndim7/HKGD+fgp6xQxu/YH1TeNUWZKODE5jurcRlYw+tQ9qzV9b5eyZVDEMw==
   dependencies:
     "@next-core/doc-helpers" "^0.2.16"
-    "@next-core/serve-helpers" "^1.2.4"
+    "@next-core/serve-helpers" "^1.2.5"
     compression "^1.7.5"
     express "^4.21.1"
     glob "^8.1.0"
@@ -1860,10 +1860,10 @@
     "@typescript-eslint/parser" "^7.18.0"
     eslint-config-prettier "^9.1.0"
 
-"@next-core/serve-helpers@^1.2.4":
-  version "1.2.4"
-  resolved "https://registry.npmmirror.com/@next-core/serve-helpers/-/serve-helpers-1.2.4.tgz#26a9c7c0b4303b6ac5c0cb6bcfbe055179799b11"
-  integrity sha512-EiBXaC+8uS5bOaGoTtr7GlokhYHPUWkSEqsTb+eLsHNdgL0jIcpQ7NLA/q8Jrr6RvxMBJdDIxZMhkCEmX0oXFw==
+"@next-core/serve-helpers@^1.2.5":
+  version "1.2.5"
+  resolved "https://registry.npmmirror.com/@next-core/serve-helpers/-/serve-helpers-1.2.5.tgz#663fa94d3345bce08f3fad83cf24bb2eaa150d60"
+  integrity sha512-x3R8g1wFY3apq39RnDrJb9bVl+ashSv8KZwy5PmrRCQxehgzFHUVLnUev4zssib7M8g3tgUHqXcw5fpbuFLrPQ==
 
 "@next-core/test-next@^1.1.8":
   version "1.1.8"
